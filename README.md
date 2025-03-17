@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olliuhlbeck
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning full stack programming via JavaScript/TypeScript, Tailwind CSS, SQL-backend (operated with PRISMA ORM) and express servers for API
+- 🌱 I’m currently learning full-stack development using JavaScript/TypeScript, Tailwind CSS, a SQL-based backend with Prisma ORM, and Express for APIs
 - 📫 olli.uhlbeck@gmail.com
 
 <!---
