@@ -10,11 +10,11 @@ Right now I’m especially interested in modern web technologies and backend dev
 
 Full stack project where I use:
 
-Frontend: JavaScript / TypeScript, Tailwind CSS
+Frontend: React, JavaScript / TypeScript, Tailwind CSS
 
 Backend: Node.js, Express
 
-Database: PostgreSQL with Prisma ORM
+Database: PostgreSQL operated with Prisma ORM
 
 📫 Contact
 
