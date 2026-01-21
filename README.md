@@ -12,7 +12,7 @@ Full stack project where I use:
 
 Frontend: React, JavaScript / TypeScript, Tailwind CSS
 
-Backend: Node.js, Express
+Backend: TypeScript, Node.js, Express
 
 Database: PostgreSQL operated with Prisma ORM
 
