@@ -16,6 +16,8 @@ Backend: TypeScript, Node.js, Express
 
 Database: PostgreSQL operated with Prisma ORM
 
+(Also currently improving basic CSS skills)
+
 📫 Contact
 
 📧 olli.uhlbeck@gmail.com
