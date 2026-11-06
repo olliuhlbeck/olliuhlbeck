@@ -18,6 +18,8 @@ Database: PostgreSQL operated with Prisma ORM
 
 (Also currently improving basic CSS skills)
 
+AI based developing
+
 📫 Contact
 
 📧 olli.uhlbeck@gmail.com
